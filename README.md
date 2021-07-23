@@ -2,7 +2,7 @@
 
 <h2>Desafios</h2>
 
-<h3>Primeiros Passos em Java</h3>
+<p>Primeiros Passos em Java</p>
  <ul>
   <li>Visita na Feira</li>
  </ul>
@@ -17,7 +17,7 @@
  </ul>
  <h4>Crie um programa que leia 6 valores. Você poderá receber valores negativos e/ou positivos como entrada, devendo desconsiderar os valores nulos. Em seguida, apresente a quantidade de valores positivos digitados.</h4>
  
-<h3>Desafios númericos em Java</h3>
+<p>Desafios númericos em Java</p>
  <ul>
   <li>Análise de Números</li>
  </ul>
@@ -30,4 +30,49 @@
   <li>Contagem de Cédulas</li>
  </ul>
   <h4>PFaça a leitura de um valor inteiro. Em seguida, calcule o menor número de notas possíveis (cédulas) onde o valor pode ser decomposto. As notas que você deve considerar são de 100, 50, 20, 10, 5, 2 e 1. Na sequência mostre o valor lido e a relação de notas necessárias.</h4>
+  
+  <p> Solucionando desafios em Java </p>
+ <ul>
+ <li> Área do Círculo </li>
+  </ul>
+  <h4> A fórmula para calcular a área de uma circunferência é: area = π . raio2. Considerando para este problema que π = 3.14159:
+Efetue o cálculo da área, elevando o valor de raio ao quadrado e multiplicando por π.</h4>
+
+<ul>
+ <li> Média 3 </li>
+  </ul>
+  <h4> Leia quatro números (N1, N2, N3, N4), cada um deles com uma casa decimal, correspondente às quatro notas de um aluno. Calcule a média com pesos 2, 3, 4 e 1, respectivamente, para cada uma destas notas e mostre esta média acompanhada pela mensagem "Media: ". Se esta média for maior ou igual a 7.0, imprima a mensagem "Aluno aprovado.". Se a média calculada for inferior a 5.0, imprima a mensagem "Aluno reprovado.". Se a média calculada for um valor entre 5.0 e 6.9, inclusive estas, o programa deve imprimir a mensagem "Aluno em exame.".
+
+No caso do aluno estar em exame, leia um valor correspondente à nota do exame obtida pelo aluno. Imprima então a mensagem "Nota do exame: " acompanhada pela nota digitada. Recalcule a média (some a pontuação do exame com a média anteriormente calculada e divida por 2). e imprima a mensagem "Aluno aprovado." (caso a média final seja 5.0 ou mais ) ou "Aluno reprovado.", (caso a média tenha ficado 4.9 ou menos). Para estes dois casos (aprovado ou reprovado após ter pego exame) apresente na última linha uma mensagem "Media final: " seguido da média final para esse aluno.<h4>
+
+<ul>
+ <li> A corrida das Tartarugas </li>
+  </ul>
+  <h4> A corrida de tartarugas é um esporte que cresceu muito nos últimos anos, fazendo com que vários competidores se dediquem a capturar tartarugas rápidas, e treina-las para faturar milhões em corridas pelo mundo. Porém a tarefa de capturar tartarugas não é uma tarefa muito fácil, pois quase todos esses répteis são bem lentos. Cada tartaruga é classificada em um nível dependendo de sua velocidade:
+
+Nível 1: Se a velocidade é menor que 10 cm/h .
+Nível 2: Se a velocidade é maior ou igual a 10 cm/h e menor que 20 cm/h .
+Nível 3: Se a velocidade é maior ou igual a 20 cm/h .
+
+Sua tarefa é identificar qual o nível de velocidade da tartaruga mais veloz de um grupo.</h4>
+
+
+
+<ul>
+ <li> Combinação de strings </li>
+  </ul>
+  <h4> Crie um algoritmo que receba dois inputs que sejam strings e combine-as alternando as letras de cada string. 
+
+Deve começar pela primeira letra da primeira string, seguido pela primeira letra da segunda string, em seguida pela segunda letra da primeira string e continuar dessa forma sucessivamente.
+
+As letras restantes da cadeia mais longa devem ser adicionadas ao fim da string resultante e retornada.</h4>
+
+<ul>
+ <li> Encaixa ou não? </li>
+  </ul>
+  <h4> Paulinho tem em suas mãos um novo problema. Agora a sua professora lhe pediu que construísse um programa para verificar, à partir de dois valores muito grandes A e B, se B corresponde aos últimos dígitos de A.
+</h4>
+
+
+
 
