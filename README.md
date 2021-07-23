@@ -1,8 +1,6 @@
 <h1>Desafios Java Bootcamp | Fullstack Developer</h1>
 
-<h2>Desafios</h2>
-
-<p>Primeiros Passos em Java</p>
+<h2>Primeiros Passos em Java</h2>
  <ul>
   <li>Visita na Feira</li>
  </ul>
@@ -17,7 +15,7 @@
  </ul>
  <h4>Crie um programa que leia 6 valores. Você poderá receber valores negativos e/ou positivos como entrada, devendo desconsiderar os valores nulos. Em seguida, apresente a quantidade de valores positivos digitados.</h4>
  
-<p>Desafios númericos em Java</p>
+<h2>Desafios númericos em Java</h2>
  <ul>
   <li>Análise de Números</li>
  </ul>
@@ -31,7 +29,7 @@
  </ul>
   <h4>PFaça a leitura de um valor inteiro. Em seguida, calcule o menor número de notas possíveis (cédulas) onde o valor pode ser decomposto. As notas que você deve considerar são de 100, 50, 20, 10, 5, 2 e 1. Na sequência mostre o valor lido e a relação de notas necessárias.</h4>
   
-  <p> Solucionando desafios em Java </p>
+  <h2> Solucionando desafios em Java </h2>
  <ul>
  <li> Área do Círculo </li>
   </ul>
