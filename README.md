@@ -27,7 +27,7 @@
   <ul>
   <li><a href="https://github.com/GustavoP334/Desafios-de-Java-Dio/blob/main/Desafios%20Num%C3%A9ricos%20em%20Java/contagem-de-cedulas.java">Contagem de Cédulas</a></li>
  </ul>
-  <h4>PFaça a leitura de um valor inteiro. Em seguida, calcule o menor número de notas possíveis (cédulas) onde o valor pode ser decomposto. As notas que você deve considerar são de 100, 50, 20, 10, 5, 2 e 1. Na sequência mostre o valor lido e a relação de notas necessárias.</h4>
+  <h4>Faça a leitura de um valor inteiro. Em seguida, calcule o menor número de notas possíveis (cédulas) onde o valor pode ser decomposto. As notas que você deve considerar são de 100, 50, 20, 10, 5, 2 e 1. Na sequência mostre o valor lido e a relação de notas necessárias.</h4>
   
   <h2> Solucionando desafios em Java </h2>
  <ul>
@@ -37,7 +37,7 @@
 Efetue o cálculo da área, elevando o valor de raio ao quadrado e multiplicando por π.</h4>
 
 <ul>
- <li> Média 3 </li>
+ <li> <a href="https://github.com/GustavoP334/Desafios-de-Java-Dio/blob/main/Solucionando%20Desafios%20em%20Java/media-3.java">Média 3 </a> </li>
   </ul>
   <h4> Leia quatro números (N1, N2, N3, N4), cada um deles com uma casa decimal, correspondente às quatro notas de um aluno. Calcule a média com pesos 2, 3, 4 e 1, respectivamente, para cada uma destas notas e mostre esta média acompanhada pela mensagem "Media: ". Se esta média for maior ou igual a 7.0, imprima a mensagem "Aluno aprovado.". Se a média calculada for inferior a 5.0, imprima a mensagem "Aluno reprovado.". Se a média calculada for um valor entre 5.0 e 6.9, inclusive estas, o programa deve imprimir a mensagem "Aluno em exame.".
 
