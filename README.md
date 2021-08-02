@@ -44,7 +44,7 @@ Efetue o cálculo da área, elevando o valor de raio ao quadrado e multiplicando
 No caso do aluno estar em exame, leia um valor correspondente à nota do exame obtida pelo aluno. Imprima então a mensagem "Nota do exame: " acompanhada pela nota digitada. Recalcule a média (some a pontuação do exame com a média anteriormente calculada e divida por 2). e imprima a mensagem "Aluno aprovado." (caso a média final seja 5.0 ou mais ) ou "Aluno reprovado.", (caso a média tenha ficado 4.9 ou menos). Para estes dois casos (aprovado ou reprovado após ter pego exame) apresente na última linha uma mensagem "Media final: " seguido da média final para esse aluno.<h4>
 
 <ul>
- <li> A corrida das Tartarugas </li>
+ <li> <a href="https://github.com/GustavoP334/Desafios-de-Java-Dio/blob/main/Solucionando%20Desafios%20em%20Java/corrida-de-tartarugas.java"> A corrida das Tartarugas </a> </li>
   </ul>
   <h4> A corrida de tartarugas é um esporte que cresceu muito nos últimos anos, fazendo com que vários competidores se dediquem a capturar tartarugas rápidas, e treina-las para faturar milhões em corridas pelo mundo. Porém a tarefa de capturar tartarugas não é uma tarefa muito fácil, pois quase todos esses répteis são bem lentos. Cada tartaruga é classificada em um nível dependendo de sua velocidade:
 
