@@ -57,7 +57,7 @@ Sua tarefa é identificar qual o nível de velocidade da tartaruga mais veloz de
 
 
 <ul>
- <li> Combinação de strings </li>
+ <li> <a href="https://github.com/GustavoP334/Desafios-de-Java-Dio/blob/main/Solucionando%20Desafios%20em%20Java/combinacao-de-strings.java"> Combinação de strings </a> </li>
   </ul>
   <h4> Crie um algoritmo que receba dois inputs que sejam strings e combine-as alternando as letras de cada string. 
 
@@ -66,7 +66,7 @@ Deve começar pela primeira letra da primeira string, seguido pela primeira letr
 As letras restantes da cadeia mais longa devem ser adicionadas ao fim da string resultante e retornada.</h4>
 
 <ul>
- <li> Encaixa ou não? </li>
+ <li> <a href="https://github.com/GustavoP334/Desafios-de-Java-Dio/blob/main/Solucionando%20Desafios%20em%20Java/encaixa-ou-nao.java"> Encaixa ou não? </a></li>
   </ul>
   <h4> Paulinho tem em suas mãos um novo problema. Agora a sua professora lhe pediu que construísse um programa para verificar, à partir de dois valores muito grandes A e B, se B corresponde aos últimos dígitos de A.
 </h4>
